@@ -17,10 +17,12 @@ the right place they are in the text. Note that you can probably copy
 and paste the LaTeX code from `example.tex` into the equation editor. 
 1. For tables and images, create a tightly cropped screenshot of the PDF and paste
 them into the document as images. 
-1. Re-do as the footnotes 
-1. Re-do all the references using Google Doc bookmarks and headings. 
+1. Re-do the footnotes 
+1. Re-do all the within-document references e.g., references to
+sections, citations, tables etc. using Google Doc bookmarks and headings. 
 1. Download the file as a Microsoft Word document to make sure
-everything worked. 
+everything worked---make a note of document aspects that do not work
+on MS Word.  
 1. Email me when you are done. 
 
 
