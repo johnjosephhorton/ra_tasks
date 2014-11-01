@@ -7,7 +7,17 @@ Organizing a folder of PDF articles
 
 1. You will create a plain text bibTeX document in that same folder called `literature.bib`.   
 
-1. For each PDF article, find the bibTeX entry somewhere online, ideally at the actual journal where that article was published. Make a separate plain text file called `not_found.md` where you list the names of any articles you cannot find and where you tried looking.    
+1. For each PDF article, find the bibTeX entry somewhere online,
+ideally at the actual journal where that article was published. Make a
+separate plain text file called `not_found.txt` where you list the
+names of any articles you cannot find, followed by spaces and then a
+sentence on where you tried looking _all on one line_. Add enough space so that the explanation sentences all line up, e.g., 
+
+```
+horton2010.pdf    Tried SSRN and Experimental Economics but nothing was there. 
+davis2011.pdf     Tried SSRN and arXiv
+
+```
 
 1. Each bibTeX entry equires a key. The "key" for each entry should be the name of the PDF.
 For example, suppose the name of the article is `horton2010.pdf`.
@@ -25,7 +35,7 @@ The corresponding entry in bibTeX sould be:
 	}
 ```
 
-1. Create a plain text document called ``keys`` that lists each of the
+1. Create a plain text document called ``keys.txt`` that lists each of the
 used keys in alphabetical order, one per line with no extra spaces. 
 
 ```	
