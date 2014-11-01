@@ -13,18 +13,13 @@ Organizing a folder of PDF articles
 For example, suppose the name of the article is `horton2010.pdf`.
 The corresponding entry in bibTeX sould be: 
 
-	@article{horton2010,
+    @article{horton2010,
+	    author={Horton, JohnJ. and Rand, DavidG. and Zeckhauser, RichardJ.},
+		title={The online laboratory: Conducting experiments in a real labor market},
 		year={2011},
-		issn={1386-4157},
 		journal={Experimental Economics},
-        volume={14},
-        number={3},
-        doi={10.1007/s10683-011-9273-9},
-        title={The online laboratory: Conducting experiments in a real
-		labor market},
-        url={http://dx.doi.org/10.1007/s10683-011-9273-9},
-        publisher={Springer US},
-        author={Horton, JohnJ. and Rand, DavidG. and Zeckhauser, RichardJ.},
+		volume={14},
+        number={3},    
         pages={399-425},
 	}
 	
