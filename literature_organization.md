@@ -3,8 +3,9 @@ Organizing a folder of PDF articles
 1. Email me from the email address you use for your Dropbox account. 
 1. I will add you as a collaborator to a folder filled with PDF files, which will usually be called `literature.` 
 1. You will create a plain text bibTeX document in that same folder called `literature.bib`.   
-1. For each PDF article, find the bibTeX entry somewhere online, ideally at the actual journal where that article was published. 
-Make a separate plain text file called `not_found.txt` where you list the names of any articles you cannot find, followed by spaces and then a sentence on where you tried looking _all on one line_. 
+1. For each PDF article, find the bibTeX entry somewhere online,
+ideally at the actual journal where that article was published. Add it to `literature.bib.`
+1. Make a separate plain text file called `not_found.txt` where you list the names of any articles you cannot find, followed by spaces and then a sentence on where you tried looking _all on one line_. 
 Add enough space so that the explanation sentences all line up, e.g., 
 
 	```
