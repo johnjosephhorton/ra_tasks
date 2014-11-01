@@ -13,6 +13,7 @@ Organizing a folder of PDF articles
 For example, suppose the name of the article is `horton2010.pdf`.
 The corresponding entry in bibTeX sould be: 
 
+```
 	@article{horton2010,
 	    author={Horton, JohnJ. and Rand, DavidG. and Zeckhauser, RichardJ.},
 		title={The online laboratory: Conducting experiments in a real labor market},
@@ -22,15 +23,16 @@ The corresponding entry in bibTeX sould be:
 		number={3},
 		pages={399-425}
 	}
-	
+```
+
 1. Create a plain text document called ``keys`` that lists each of the
 used keys in alphabetical order, one per line with no extra spaces. 
 
-	
+```	
 	adams2010
 	babcock1988
 	charles2014
 	zylland2010
-	
+```	
 
 1. Email me when you are done. 
