@@ -1,20 +1,21 @@
-Organizing a folder of PDF articles 
------------------------------------
+Getting Every Paper that Cites a Paper
+======================================
+
+Getting Started
+---------------
 1. Email me from the email address you use for your Dropbox account. 
 1. I will give you a PDF of an academic article
-1. Create a folder called `<last_name_of_first_author>_literature` and
-share it with me. For example, if the author's name was smith, it
+1. Create a folder called `<last_name_of_first_author>_literature.` For example, if the author's name was smith, it
 would be called `smith_literature.` If it is hyphenated name or has an
 apostrophe, remove the spaces/apostrophes. 
 the hyphen  
-1. You will create a plain text bibTeX document in that same folder called `literature.bib`.   
-
+1. Add me to the folder as a collaborator (don't just share the content). 
+1. Create a plain text bibTeX document in that same folder called `literature.bib`.   
 
 Finding and documentating each article cited in the original article 
-====================================================================
-
-1. For each paper cited in the article: 
-   1. Find the PDF (ideally the published version on the journal's webpage) 
+---------------------------------------------------------------------
+1. For each paper cited in the article (look in the 'references' section): 
+   1. Find the PDF (ideally the published version on the journal's webpage). Best way to start is to Google the title of the paper.  
    1. Add that PDF to the folder 
    1. Rename the PDF to `<last name of first author>_year.pdf`, all lowercase. For
    example, if the article is Adam Smith, 1776, you would name the PDF `smith776.pdf` 
@@ -39,8 +40,7 @@ The corresponding entry in bibTeX sould be:
 	```
 
 List Articles Not Found
-=======================
-
+-----------------------
 1. Make a separate plain text file called `not_found.txt` where you list the names of any articles you cannot find, followed by spaces and then a sentence on where you tried looking _all on one line_. 
 Add enough space so that the explanation sentences all line up, e.g., 
 
@@ -51,8 +51,8 @@ Add enough space so that the explanation sentences all line up, e.g.,
 	
 
 Create a List of Keys
-=====================
-   1. Create a plain text document called ``keys.txt`` that lists each of the
+---------------------
+1. Create a plain text document called ``keys.txt`` that lists each of the
 used keys in alphabetical order, one per line with no extra spaces. 
 
 	```	
