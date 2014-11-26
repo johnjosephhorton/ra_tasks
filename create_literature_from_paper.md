@@ -1,28 +1,27 @@
 Getting Every Paper that Cites a Paper
 ======================================
 
-Getting Started
+Step 1: Getting Started
 ---------------
 1. Email me from the email address you use for your Dropbox account. 
 1. I will give you a PDF of an academic article
 1. Create a folder called `<last_name_of_first_author>_literature.` For example, if the author's name was smith, it
 would be called `smith_literature.` If it is hyphenated name or has an
 apostrophe, remove the spaces/apostrophes. 
-the hyphen  
 1. Add me to the folder as a collaborator (don't just share the content). 
 1. Create a plain text bibTeX document in that same folder called `literature.bib`.   
 
 Finding and documentating each article cited in the original article 
 ---------------------------------------------------------------------
-1. For each paper cited in the article (look in the 'references' section): 
-   1. Find the PDF (ideally the published version on the journal's webpage). Best way to start is to Google the title of the paper.  
-   1. Add that PDF to the folder 
-   1. Rename the PDF to `<last name of first author>_year.pdf`, all lowercase. For
+For each paper cited in the article (look in the 'references' section): 
+1. Find the PDF (ideally the published version on the journal's webpage). Best way to start is to Google the title of the paper. Make a note of any papers you cannot find or access.  
+1. Add that PDF to the folder 
+1. Rename the PDF to `<last name of first author>_year.pdf`, all lowercase. For
    example, if the article is Adam Smith, 1776, you would name the PDF `smith776.pdf` 
-   1. For each PDF article, find the bibTeX entry somewhere online,
+1. For each PDF article, find the bibTeX entry somewhere online,
 ideally at the actual journal where that article was published. Paste
 it into `literature.bib.`
-   1. Each bibTeX entry requires a key that is the first part of a bibTeX
+1. Each bibTeX entry requires a key that is the first part of a bibTeX
 entry. The "key" for each entry should be the name of the PDF.
 For example, suppose the name of the article is `horton2010.pdf`.
 The corresponding entry in bibTeX sould be: 
