@@ -22,6 +22,7 @@ For each paper cited in the article (look in the 'references' section):
 1. For each PDF article, find the bibTeX entry somewhere online, ideally at the actual journal where that article was published. Paste it into `literature.bib.`
 1. Each bibTeX entry requires a key that is the first part of a bibTeX entry. The "key" for each entry should be the name of the PDF. For example, suppose the name of the article is `horton2010.pdf`.
 The corresponding entry in bibTeX sould be: 
+
 	```
 	@article{horton2010,
 	    author={Horton, JohnJ. and Rand, DavidG. and Zeckhauser, RichardJ.},
