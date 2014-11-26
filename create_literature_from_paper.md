@@ -14,18 +14,14 @@ apostrophe, remove the spaces/apostrophes.
 Step 2: Finding and documentating each article cited in the original article 
 ----------------------------------------------------------------------------
 For each paper cited in the article (look in the 'references' section): 
+
 1. Find the PDF (ideally the published version on the journal's webpage). Best way to start is to Google the title of the paper. Make a note of any papers you cannot find or access. If it is a book, do not try to add it---just make a note in the "not_found.txt" file you will create (See Step 3.)   
 1. Add that PDF to the folder 
 1. Rename the PDF to `<last name of first author>_year.pdf`, all lowercase. For
    example, if the article is Adam Smith, 1776, you would name the PDF `smith776.pdf` 
-1. For each PDF article, find the bibTeX entry somewhere online,
-ideally at the actual journal where that article was published. Paste
-it into `literature.bib.`
-1. Each bibTeX entry requires a key that is the first part of a bibTeX
-entry. The "key" for each entry should be the name of the PDF.
-For example, suppose the name of the article is `horton2010.pdf`.
+1. For each PDF article, find the bibTeX entry somewhere online, ideally at the actual journal where that article was published. Paste it into `literature.bib.`
+1. Each bibTeX entry requires a key that is the first part of a bibTeX entry. The "key" for each entry should be the name of the PDF. For example, suppose the name of the article is `horton2010.pdf`.
 The corresponding entry in bibTeX sould be: 
-	
 	```
 	@article{horton2010,
 	    author={Horton, JohnJ. and Rand, DavidG. and Zeckhauser, RichardJ.},
