@@ -1,0 +1,8 @@
+1. Create a google spreadsheet 
+1. Get latest PDF of the document
+1. In the first column, add rows:
+- Does the title descibe the 5Ws of the table and relate to its point within the paper? 
+- Is the sample for regression explained? 
+- Is there a note about how standard errors were calculated? 
+- Is the statistical model (e.g., OLS) noted? 
+- Are all the dependent and independent variables explained? 
