@@ -2,12 +2,10 @@
 
 Perhaps the biggest mistake an academic can make is to try to answer questions that no one cares about. The purpose of this document is to help prevent that outcome by doing a prospective analysis on likely importance. One could think of it as analogous to the power calculation done before an experiment is run. 
 
-# Motivation/Importance
-
 The purpose of these questions is to force the would-be author to consider whether or not a potential research project is likely to lead to an "important."  
 What makes a paper "important" is nebulous, but one workable definition is that it moves the priors of individuals on a question of large practical or theoretical consequence. 
 
-## Tests for "importantance" 
+# Tests for "importance" 
 
 1. Could the paper overturn conventional wisdom on some topic?  
 1. Is there some government policy we would change if we knew the answer to the question?
